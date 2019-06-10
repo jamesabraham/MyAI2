@@ -1,0 +1,14 @@
+D:\Work\Test\CICD\MyAPI\MyAPI\bin\Debug\netcoreapp2.2\MyAPI.deps.json
+D:\Work\Test\CICD\MyAPI\MyAPI\bin\Debug\netcoreapp2.2\MyAPI.runtimeconfig.json
+D:\Work\Test\CICD\MyAPI\MyAPI\bin\Debug\netcoreapp2.2\MyAPI.runtimeconfig.dev.json
+D:\Work\Test\CICD\MyAPI\MyAPI\bin\Debug\netcoreapp2.2\MyAPI.dll
+D:\Work\Test\CICD\MyAPI\MyAPI\bin\Debug\netcoreapp2.2\MyAPI.pdb
+D:\Work\Test\CICD\MyAPI\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.csprojAssemblyReference.cache
+D:\Work\Test\CICD\MyAPI\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.csproj.CoreCompileInputs.cache
+D:\Work\Test\CICD\MyAPI\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.RazorAssemblyInfo.cache
+D:\Work\Test\CICD\MyAPI\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.RazorAssemblyInfo.cs
+D:\Work\Test\CICD\MyAPI\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.AssemblyInfoInputs.cache
+D:\Work\Test\CICD\MyAPI\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.AssemblyInfo.cs
+D:\Work\Test\CICD\MyAPI\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.RazorTargetAssemblyInfo.cache
+D:\Work\Test\CICD\MyAPI\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.dll
+D:\Work\Test\CICD\MyAPI\MyAPI\obj\Debug\netcoreapp2.2\MyAPI.pdb
